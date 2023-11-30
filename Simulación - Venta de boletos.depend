@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1570907506 source:g:\usb\estructuras de datos ii\simulación - venta de boletos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+	<iostream>
+
+1570573780 source:e:\usb\estructuras de datos ii\simulación - venta de boletos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+
+1570831700 source:c:\users\ankealpc\desktop\is\estructuras de datos ii\simulación - venta de boletos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+	<iostream>
+
+1570909938 source:g:\usb\estructuras de datos ii\simulación - venta de boletos\proyecto\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string>
+	<time.h>
+	<iostream>
+
